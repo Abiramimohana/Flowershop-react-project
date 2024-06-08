@@ -1,0 +1,28 @@
+.flowerheader{
+  background-color: rgb(32, 32, 32);
+  display: flex;
+  gap: 40%;
+  
+ }
+img{
+  width: 100%;
+  height:500px;
+}
+.aboutimage{
+  background-image: url("../Assest/about.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 100%;
+}
+
+.aboutdetails{
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  word-spacing: 5px;
+  padding: 25px;
+
+}
+

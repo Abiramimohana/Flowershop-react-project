@@ -1,0 +1,105 @@
+.events,.delivery,.interior,.exterior,.hospitality,.bouquets{
+    border: 1px solid white;
+   
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.events{
+    background-size: cover;
+    background-image: url("../Assest/eventcollection/wedding2.jpeg");
+   
+}
+.delivery{
+    background-size: cover;
+    background-image: url("../Assest/service2.jpg");
+   
+}
+.interior{
+    background-size: cover;
+    background-image: url("../Assest/nurturing-oasis.jpg.webp");
+   
+}
+.exterior{
+    background-size: cover;
+    background-image: url("../Assest/flower4.jpg");
+   
+}
+.hospitality{
+    background-size: cover;
+    background-image: url("../Assest/service1.jpg");
+   
+}
+.bouquets{
+    background-size: cover;
+    background-image: url("../Assest/images\ \(8\).jpeg");
+   
+}
+.serviceimg1,.serviceimg2,.serviceimg3{
+    display: flex;
+    justify-content:center;
+    gap:40%;
+    padding: 100px;
+   
+}
+
+.events1,.interior2,.delivery2,.exterior2,.hospitality2,.bouquets2{
+    display: flex;
+    margin-top: 150px;
+    flex-direction: column;
+    width: 400px;
+    text-align: center;
+    margin-left: -140px;
+}
+.servicetext{
+   background-color: lightcoral;
+   margin-top: 50px;
+   height: 180px;
+}
+.servicetext1>p{
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    word-spacing: 4px;
+    padding: 15px;
+
+
+}
+.servicebtn{
+    background-color: whitesmoke;
+    height: 50px;
+    width: 150px;
+    border: 1px solid whitesmoke;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-left: 0%;
+    font-size: medium;
+}
+.servicebtn:hover{
+    color: lightcoral ;
+}
+
+.serviceimage{
+    position: relative;
+   
+}
+.serviceimagetext{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    color:whitesmoke;
+    text-align: center;
+}
+.serviceimagetext:hover{
+    background-color:whitesmoke;
+
+}
+.serviceparatext{
+    color: lightcoral;
+    font-family: cursive;
+    font-weight: bold;
+}
+.serviceheadingtext{
+    color: lightcoral;
+}

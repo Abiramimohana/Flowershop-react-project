@@ -1,0 +1,66 @@
+.showcase1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.showcase1 .flowertitle{
+    font-family: cursive;
+    font-size: 60px;
+   
+}
+.flowerlist{
+    width: 70vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+}
+
+/* floweritem */
+.floweritem{
+    border-radius: 15px;
+    box-shadow: 0px 3px 15px rgb(0,0,0.2);
+    width:300px;
+    height: 350px;
+    margin: 20px;
+}
+.floweritem:hover{
+    box-shadow: 0px 3px 15px rgb(0,0,0.5);
+    transition: 0.3% ease-in;
+    cursor: pointer;
+}
+.floweritem div{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.floweritem h1,p{
+    margin-left: 20px;
+    
+}
+.flowerlistbtn{
+    height: 50px;
+    width: 150px;
+    margin-left: 4%;
+    margin-top: 1%;
+    margin-bottom: 10px;
+    background-color: lightcoral;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.flowerlistbtn:hover{
+    background-color:black;
+    border: 1px solid black ;
+    color: white;
+}

@@ -1,0 +1,91 @@
+.flowerlist1{
+    margin-top: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+     display: flex;
+     gap: 10px;
+    
+}
+.flowerlistimage1{
+    width: 380px;
+    border: 1px solid rgb(161, 160, 160);
+    height: 5%;
+}
+.image1caption{
+    display: flex;
+    gap: 50%;
+    font-size: 15px;
+}
+.flowerlist2{
+    margin-top: 1%;
+    margin-left: 10px;
+    margin-right: 10px;
+     display: flex;
+     gap: 10px;
+}
+.flowerlistbtn{
+    height: 50px;
+    width: 150px;
+    margin-left: 45%;
+    margin-top: 1%;
+    margin-bottom: 10px;
+    background-color: lightcoral;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ .flowerlistbtn:hover{
+    background-color:black;
+    border: 1px solid black ;
+    color: white;
+ }
+
+
+/* showcase2 */
+.eventlist1{
+    margin-top: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+     display: flex;
+     gap: 10px;
+}
+.eventlistimage1{
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: 0px 3px 15px rgb(0,0,0.2);
+    height: 1%;
+}
+.eventlist2{
+    margin-top: 1%;
+    margin-left: 10px;
+    margin-right: 10px;
+     display: flex;
+     gap: 10px;
+}
+.eventlistimage2{
+    width: 500px;
+   
+    height: 5%;
+}
+.eventflowerbtn{
+    height: 50px;
+    width: 150px;
+    margin-left: 30%;
+    margin-top: 1%;
+    margin-bottom: 10px;
+    background-color: lightcoral;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ .eventflowerbtn:hover{
+    background-color:black;
+    border: 1px solid black ;
+    color: white;
+ }

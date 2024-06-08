@@ -1,0 +1,76 @@
+.imgshowccase{
+    position: relative;
+    height: 200px;
+}
+.flowertitle{
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    text-decoration-thickness: 8px;
+   
+}
+.flowertitle1{
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    text-decoration-thickness: 8px;
+  
+   
+}
+.showcasetext{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    color: lightcoral;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.showcasetext:hover{
+    background-color: whitesmoke;
+}
+.imagesproduct{
+ margin-top: 25%;
+margin-left: 10px;
+margin-right: 10px;
+ display: flex;
+ gap: 10px;
+
+}
+.imagesproduct1{
+    margin-top: 1%;
+    margin-left: 10px;
+    margin-right: 10px;
+     display: flex;
+     gap: 10px;
+}
+
+.image1{
+   
+    width: 380px;
+    border: 1px solid rgb(190, 188, 188);
+    height: 5%;
+}
+
+.image1caption{
+    display: flex;
+    gap: 50%;
+    font-size: 15px;
+}
+.showcasebtn{
+    height: 50px;
+    width: 150px;
+   margin-left: 45%;
+   margin-top: 1%;
+   margin-bottom: 10px;
+   background-color: lightcoral;
+   border: 1px solid lightcoral;
+   border-radius: 5px;
+   color: whitesmoke;
+   font-size: 15px;
+   font-family: 'Courier New', Courier, monospace;
+}
+.showcasebtn:hover
+{
+    background-color:black;
+    border: 1px solid black ;
+    color: white;
+}

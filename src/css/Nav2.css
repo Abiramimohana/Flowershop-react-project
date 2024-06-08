@@ -1,0 +1,48 @@
+
+
+   .nav2{
+     display: flex;
+     justify-content: flex-end;
+   }
+   .nav2nav1{
+     display: flex;
+     justify-content: flex-end;
+     justify-content: center;
+     gap: 20px;
+     padding: 30px;
+     padding-left: 100px;
+    
+     
+  }
+  .home:hover{
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    text-decoration-thickness: 5px;
+   
+  }
+  .about:hover{
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    text-decoration-thickness: 5px;
+   
+  }
+  .service:hover{
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    text-decoration-thickness: 5px;
+   
+  }  
+  .showcasehead:hover{
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    text-decoration-thickness: 5px;
+   
+  }
+  .contactus:hover{
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    text-decoration-thickness: 5px;
+   
+  }
+
+  

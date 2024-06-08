@@ -1,0 +1,19 @@
+.footersection{
+    background-color:rgb(32, 32, 32);
+    height: 220px;
+    padding: 10px;
+}
+.footersection1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: rgb(146, 144, 144);
+    
+}
+.footersection-fyit{
+    display: flex;
+    gap:50px;
+    margin-left: 40%;
+   
+   
+}
