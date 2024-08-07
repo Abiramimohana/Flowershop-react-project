@@ -4,17 +4,17 @@ import image3 from '../Assest/natures-bliss.jpg.webp';
 
 export const Showcase1=[
     {
-        name:"lorem",
+        name:"Roses",
         image:image1,
         price:100.00
     },
     {
-        name:"lorem",
+        name:"lavender",
         image:image2,
         price:100.00
     },
     {
-        name:"lorem",
+        name:"natures bliss",
         image:image3,
         price:100.00
     },
