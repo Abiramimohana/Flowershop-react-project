@@ -15,91 +15,91 @@ import image14 from "../Assest/eventcollection/wedding11.jpg";
 import image15 from '../Assest/eventcollection/wedding12.jpg';
 export const EventListimg=[
     {
-      name:"lorem",
+      name:"wedding",
       image:image1,
       price:100.00
 
     },
     {
-        name:"lorem",
+        name:"wedding",
         image:image2,
         price:100.00
   
     },
     {
-        name:"lorem",
+        name:"wedding",
         image:image3,
         price:100.00
   
     },
     {
-        name:"lorem",
+        name:"wedding",
         image:image4,
         price:100.00
   
     },
     {
-        name:"lorem",
+        name:"wedding",
         image:image5,
         price:100.00
   
     },
     {
-        name:"lorem",
+        name:"wedding",
         image:image6,
         price:100.00
   
       },
     {
-        name:"lorem",
+        name:"wedding",
         image:image7,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"wedding",
         image:image8,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"wedding",
         image:image9,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"wedding",
         image:image10,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"wedding",
         image:image11,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"wedding",
         image:image12,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"wedding",
         image:image13,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"wedding",
         image:image14,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"wedding",
         image:image15,
         price:100.00
   
@@ -107,4 +107,5 @@ export const EventListimg=[
 
 ];
 
+ 
  
