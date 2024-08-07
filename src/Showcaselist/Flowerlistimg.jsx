@@ -15,91 +15,91 @@ import image14 from '../Assest/images (9).jpeg';
 import image15 from '../Assest/images.jpeg';
 export const Flowerlistimg=[
     {
-      name:"lorem",
+      name:"Rose",
       image:image1,
       price:100.00
 
     },
     {
-        name:"lorem",
+        name:"Rose",
         image:image2,
         price:100.00
   
     },
     {
-        name:"lorem",
+        name:"Rose",
         image:image3,
         price:100.00
   
     },
     {
-        name:"lorem",
+        name:"Rose",
         image:image4,
         price:100.00
   
     },
     {
-        name:"lorem",
+        name:"Rose",
         image:image5,
         price:100.00
   
     },
     {
-        name:"lorem",
+        name:"Rose",
         image:image6,
         price:100.00
   
       },
     {
-        name:"lorem",
+        name:"Rose",
         image:image7,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"Rose",
         image:image8,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"Rose",
         image:image9,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"Rose",
         image:image10,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"Rose",
         image:image11,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"Rose",
         image:image12,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"Rose",
         image:image13,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"Rose",
         image:image14,
         price:100.00
   
       },
       {
-        name:"lorem",
+        name:"Rose",
         image:image15,
         price:100.00
   
@@ -107,4 +107,5 @@ export const Flowerlistimg=[
 
 ];
 
+ 
  
